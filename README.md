@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnAmazingPilot
-- 👀 I’m interested in unblocked games for skool
+- 👀 I’m interested in unblocked games and rehosting websites on netlify.
 - 🌱 I’m currently learning HTML
-- 📫 How to reach me it's simple, you don't
+- 📫 How to reach me, it's kind of hard to do.
 - 😄 Pronouns: he/him
 
 <!---
